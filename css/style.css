@@ -1,4 +1,3 @@
-<style>
 body {
   background-color: pink;
 }
@@ -6,13 +5,15 @@ body {
 h1 {
   color: slateblue;
   margin-left: 40px;
-        <title>My first webpage, with proper style</title>
-    </head>
-    <style>
-        #my-header {
-            background-color: rgb(255, 165, 0);
-            color:hsl(147, 50%, 47%);
-            padding: 40px;
-            text-align: center;
-        }
-    </style>
+}
+
+#my-header {
+    background-color: rgb(255, 165, 0);
+    color:hsl(147, 50%, 47%);
+    padding: 40px;
+    text-align: center;
+}
+p {
+
+background-color:#ff00ff;
+}
